@@ -6,7 +6,7 @@
 
     <groupId>net.boillod</groupId>
     <artifactId>aes-helper-java</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 
     <dependencies>
         <dependency>
